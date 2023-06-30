@@ -1,10 +1,4 @@
 <style type="text/css">
-body {
-   background-color: #486d46;            
-   background-image: url("1205.jpg"); 
-   background-size: cover;             
-   background-attachment: fixed;     
-   background-position: center center;   
-}
+body {background-image: url("1205.jpg"); }
 </style>
 h2{color:#3366FF}
